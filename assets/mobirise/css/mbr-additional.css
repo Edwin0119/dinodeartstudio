@@ -53,11 +53,11 @@ body {
 }
 .display-7 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -91,9 +91,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 @media (min-width: 992px) and (max-width: 1400px) {
@@ -118,9 +118,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-7 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 62rem) / (87 - 62))));
   }
 }
 /* Buttons */
@@ -646,13 +646,13 @@ a:hover {
 }
 .form-control {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.3;
   font-weight: 400;
   border-radius: 40px !important;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -661,12 +661,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.75rem;
+  font-size: 1.875rem;
 }
 blockquote {
   border-color: #e72931;
@@ -1343,11 +1343,11 @@ a {
 }
 .cid-uYOms1yv3I {
   display: flex;
-  background-image: url("../../../assets/images/dino20website6-1080x1080.png");
+  background-image: url("../../../assets/images/dino20website2-1080x1080.png");
 }
 .cid-uYOms1yv3I .mbr-overlay {
-  background-color: #232323;
-  opacity: 0.2;
+  background-color: #ffffff;
+  opacity: 0;
 }
 @media (min-width: 768px) {
   .cid-uYOms1yv3I {
@@ -1385,7 +1385,7 @@ a {
 .cid-uYOms1yv3I .mbr-text,
 .cid-uYOms1yv3I .mbr-section-btn {
   text-align: center;
-  color: #ffffff;
+  color: #4c2306;
 }
 .cid-uYOms1yv3I .mbr-section-title {
   color: #e72931;
@@ -1394,11 +1394,11 @@ a {
   display: flex;
   padding-top: 20rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/whatsapp20image202025-07-2820at2011.56.4820am-1080x1254.jpg");
+  background-image: url("../../../assets/images/dino20website6-1080x1080.png");
 }
 .cid-uYU1AnRi8u .mbr-overlay {
   background-color: #000000;
-  opacity: 0;
+  opacity: 0.2;
 }
 @media (min-width: 768px) {
   .cid-uYU1AnRi8u {
