@@ -29,11 +29,11 @@ body {
 }
 .display-2 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.125rem;
+  font-size: 2.875rem;
 }
 .display-4 {
   font-family: 'Inter Tight', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.1 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.84rem;
+    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -103,9 +103,9 @@ body {
     line-height: calc( 1.1 * (1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (1.525rem + (2.5 - 1.525) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 1.84rem;
+    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (1.455rem + (2.3 - 1.455) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1382,7 +1382,7 @@ a {
   color: #4c2306;
 }
 .cid-uYOmtw1vBq {
-  padding-top: 10rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #ffffff;
 }
@@ -1455,8 +1455,8 @@ a {
   max-width: 800px;
 }
 .cid-uZ05VjMdli {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-uZ05VjMdli .mbr-fallback-image.disabled {
@@ -1494,8 +1494,8 @@ a {
   color: #e72931;
 }
 .cid-uZ07FuMit1 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-uZ07FuMit1 .mbr-fallback-image.disabled {
