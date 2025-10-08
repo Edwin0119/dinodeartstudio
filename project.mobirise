@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DINO Multi-clone",
-    "currentPage": "page7.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -17,7 +17,7 @@
         "display1Font": "Inter Tight",
         "display1Size": "3",
         "display2Font": "Inter Tight",
-        "display2Size": "3",
+        "display2Size": "2.5",
         "display5Font": "Inter Tight",
         "display5Size": "1.5",
         "display7Font": "Inter Tight",
